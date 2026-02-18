@@ -6,7 +6,7 @@ If you discover a security vulnerability in any tokentop project, please report 
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: **security@tokentop.app**
+Instead, use [GitHub Private Vulnerability Reporting](https://github.com/tokentopapp/tokentop/security/advisories/new) on the affected repository. Click the **Security** tab → **Advisories** → **New draft security advisory**.
 
 You should receive an acknowledgment within 48 hours. We will work with you to understand the issue and coordinate a fix before any public disclosure.
 
