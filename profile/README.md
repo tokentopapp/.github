@@ -12,9 +12,8 @@
 | [agent-opencode](https://github.com/tokentopapp/agent-opencode) | OpenCode agent plugin |
 | [agent-cursor](https://github.com/tokentopapp/agent-cursor) | Cursor agent plugin |
 | [agent-windsurf](https://github.com/tokentopapp/agent-windsurf) | Windsurf agent plugin |
-| [agent-gemini-cli](https://github.com/tokentopapp/agent-gemini-cli) | Gemini CLI agent plugin |
+| [agent-gemini](https://github.com/tokentopapp/agent-gemini) | Gemini agent plugin (Gemini CLI, Antigravity, and all gemini-cli-core tools) |
 | [agent-copilot-cli](https://github.com/tokentopapp/agent-copilot-cli) | GitHub Copilot CLI agent plugin |
-| [agent-antigravity](https://github.com/tokentopapp/agent-antigravity) | Antigravity agent plugin |
 
 ### Contributing
 
